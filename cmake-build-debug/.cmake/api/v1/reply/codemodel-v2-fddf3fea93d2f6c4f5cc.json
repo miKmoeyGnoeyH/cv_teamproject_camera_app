@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-79e9ac73c3d04ed56049.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cv_teamproject_camera_app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cv_teamproject_camera_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cv_teamproject_camera_app-Debug-1a97d4ecc13e4fead08c.json",
+					"name" : "cv_teamproject_camera_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cv_teamproject_camera_app_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cv_teamproject_camera_app_autogen-Debug-78ea488f2cd8ea9ae6ed.json",
+					"name" : "cv_teamproject_camera_app_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cv_teamproject_camera_app_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cv_teamproject_camera_app_autogen_timestamp_deps-Debug-19348aeb4ecb67f3a7f0.json",
+					"name" : "cv_teamproject_camera_app_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug",
+		"source" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

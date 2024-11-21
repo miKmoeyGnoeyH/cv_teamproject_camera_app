@@ -1,0 +1,10 @@
+# ninja log v6
+1	392	1732186773687589648	cv_teamproject_camera_app_autogen/timestamp	5d7087bfb7df7366
+1	392	1732186773687589648	cv_teamproject_camera_app_autogen/mocs_compilation.cpp	5d7087bfb7df7366
+1	392	1732186773687589648	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/timestamp	5d7087bfb7df7366
+1	392	1732186773687589648	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/mocs_compilation.cpp	5d7087bfb7df7366
+392	1458	1732186773700649266	CMakeFiles/cv_teamproject_camera_app.dir/cv_teamproject_camera_app_autogen/mocs_compilation.cpp.o	dea671af2efe8aa1
+392	1465	1732186773700896978	CMakeFiles/cv_teamproject_camera_app.dir/main.cpp.o	d25e6c10a6dbac99
+392	1496	1732186773701259984	CMakeFiles/cv_teamproject_camera_app.dir/editdialog/editdialog.cpp.o	58a61656513c27e8
+392	1505	1732186773701088856	CMakeFiles/cv_teamproject_camera_app.dir/mainwindow/mainwindow.cpp.o	22be94c60e5ac7c7
+1505	1553	1732186774813903344	cv_teamproject_camera_app.app/Contents/MacOS/cv_teamproject_camera_app	18506c62783cbdf1
