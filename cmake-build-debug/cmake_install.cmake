@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app
+# Install script for directory: /Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE DIRECTORY FILES "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app.app" USE_SOURCE_PERMISSIONS)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE DIRECTORY FILES "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app.app" USE_SOURCE_PERMISSIONS)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./cv_teamproject_camera_app.app/Contents/MacOS/cv_teamproject_camera_app" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./cv_teamproject_camera_app.app/Contents/MacOS/cv_teamproject_camera_app")
     execute_process(COMMAND /opt/anaconda3/bin/install_name_tool
@@ -56,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -25,6 +25,7 @@ set(PROJECT_SOURCES
         editdialog/editdialog.cpp
         editdialog/editdialog.h
         editdialog/editdialog.ui
+        filter/filter.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

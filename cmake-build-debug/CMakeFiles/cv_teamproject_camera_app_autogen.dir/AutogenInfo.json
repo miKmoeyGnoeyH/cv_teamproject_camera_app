@@ -1,16 +1,16 @@
 {
-	"BUILD_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen",
-	"CMAKE_BINARY_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app",
+	"BUILD_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app",
 	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/CMakeLists.txt",
-		"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake",
+		"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/CMakeLists.txt",
+		"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake",
-		"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
+		"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
@@ -75,27 +75,33 @@
 		"/opt/homebrew/lib/cmake/opencv4/OpenCVModules-release.cmake",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app",
-	"DEP_FILE" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app",
+	"DEP_FILE" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "cv_teamproject_camera_app_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h",
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h",
 			"MU",
 			"DXJS6WHCNU/moc_editdialog.cpp",
 			null
 		],
 		[
-			"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h",
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/filter/filter.h",
+			"MU",
+			"CSB7XD6IZM/moc_filter.cpp",
+			null
+		],
+		[
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h",
 			"MU",
 			"MIKB3U5ZOU/moc_mainwindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/include",
-	"MOC_COMPILATION_FILE" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -130,31 +136,31 @@
 		"-c",
 		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 10,
-	"PARSE_CACHE_FILE" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/cv_teamproject_camera_app_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/cv_teamproject_camera_app_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/opt/anaconda3/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/opt/anaconda3/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/cv_teamproject_camera_app_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/cv_teamproject_camera_app_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.cpp",
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/main.cpp",
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.cpp",
+			"/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.cpp",
 			"MU",
 			null
 		]

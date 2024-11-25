@@ -1,5 +1,5 @@
-/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/MIKB3U5ZOU/moc_mainwindow.cpp: /Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h \
-  /Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h \
+/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/MIKB3U5ZOU/moc_mainwindow.cpp: /Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h \
+  /Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \
@@ -921,7 +921,7 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/arm_neon.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
-  /Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h \
+  /Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h \
   /opt/anaconda3/include/qt/QtCore/QTimer \
   /opt/anaconda3/include/qt/QtCore/qalgorithms.h \
   /opt/anaconda3/include/qt/QtCore/qarraydata.h \

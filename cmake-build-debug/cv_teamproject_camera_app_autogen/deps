@@ -941,15 +941,16 @@ cv_teamproject_camera_app_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/arm_neon.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/limits.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/CMakeLists.txt \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.cpp \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/main.cpp \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.cpp \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/CMakeLists.txt \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/cmake-build-debug/cv_teamproject_camera_app_autogen/moc_predefs.h \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.cpp \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.h \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/filter/filter.h \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/main.cpp \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.cpp \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.h \
 	/opt/anaconda3/include/qt/QtCore/QTimer \
 	/opt/anaconda3/include/qt/QtCore/qalgorithms.h \
 	/opt/anaconda3/include/qt/QtCore/qarraydata.h \
@@ -1188,6 +1189,6 @@ cv_teamproject_camera_app_autogen/timestamp: \
 	/opt/homebrew/lib/cmake/opencv4/OpenCVConfig.cmake \
 	/opt/homebrew/lib/cmake/opencv4/OpenCVModules-release.cmake \
 	/opt/homebrew/lib/cmake/opencv4/OpenCVModules.cmake \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.ui \
-	/Users/kim_hngm/Workspaces/C_CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.ui \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/editdialog/editdialog.ui \
+	/Users/kim_hngm/Workspaces/CppWorkspace/qt_workspace/cv_teamproject_camera_app/mainwindow/mainwindow.ui \
 	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake

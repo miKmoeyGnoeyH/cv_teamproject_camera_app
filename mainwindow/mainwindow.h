@@ -37,4 +37,4 @@ private:
     bool isCapturing;
 };
 
-#endif // MAINWINDOW_H
+#endif

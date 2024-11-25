@@ -3,7 +3,7 @@
 
 #include <QDialog>
 #include <opencv2/opencv.hpp>
-#include "ui_editdialog.h" // ui 헤더 파일 포함
+#include "ui_editdialog.h"
 
 class EditDialog : public QDialog
 {
@@ -24,9 +24,9 @@ private slots:
     void on_completeButton_clicked();
 
 private:
-    Ui::EditDialog *ui; // 포인터가 아닌 객체로 선언
+    Ui::EditDialog *ui;
     cv::Mat originalImage;
     cv::Mat editedImage;
 };
 
-#endif // EDITDIALOG_H
+#endif

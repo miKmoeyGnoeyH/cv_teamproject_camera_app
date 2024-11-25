@@ -9,7 +9,6 @@ MainWindow::MainWindow(QWidget *parent)
         : QMainWindow(parent), ui(new Ui::MainWindow), isCapturing(false) {
     ui->setupUi(this);
 
-    // 타이머 초기화
     timer = new QTimer(this);
 
     // 시그널과 슬롯 연결
@@ -49,7 +48,7 @@ void MainWindow::startOrCapture() {
         }
         isCapturing = true;
         ui->captureImageButton->setText("Capture");
-        timer->start(30); // 30ms마다 프레임 업데이트
+        timer->start(30);
     } else {
         // 사진 촬영
         isCapturing = false;
@@ -103,7 +102,6 @@ void MainWindow::editImage() {
 
     EditDialog editDialog(currentImage, this);
     if (editDialog.exec() == QDialog::Accepted) {
-        // 편집된 이미지 가져오기
         currentImage = editDialog.getEditedImage();
         displayImage(currentImage);
     }
